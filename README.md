@@ -33,6 +33,7 @@ The **Custom CNN** includes:
     - Convolutions → Batch Normalization → ReLU → Max Pooling
 2. **Fully Connected Layer** with Dropout (0.5).  
 ![Date_Custom_CNN3](https://github.com/user-attachments/assets/4bcf0186-eb38-44ee-8973-b3e8faa69f0b)
+Diagram generated using the [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) library
 
 **Model Summary**:  
 - **Total Parameters**: 128,199  
